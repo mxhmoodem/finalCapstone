@@ -1,0 +1,12 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2024-05-12;2022-11-22;No
+admin;Adding more functions;Add 8 more functions to the recent project;2024-05-13;2024-02-23;Yes
+mahmood;Update User Guide;Revise the user guide to include the latest features.;2024-06-01;2022-12-01;No
+jon;Database Backup;Perform a full backup of the database.;2024-06-15;2022-12-10;Yes
+admin;Security Audit;Conduct a comprehensive security audit of the system.;2024-07-01;2023-01-15;No
+jess;Implement New Algorithm;Develop and integrate a new sorting algorithm for data processing.;2023-07-20;2023-02-01;No
+jess;Upgrade Software;Upgrade all office computers to the latest operating system.;2024-08-05;2023-02-20;Yes
+admin;Customer Feedback Review;Compile and review customer feedback for the quarter.;2024-08-25;2023-03-10;No
+admin;Staff Training Session;Organize a training session on data security and privacy.;2024-09-10;2023-03-25;No
+mahmood;Website Redesign;Oversee the redesign of the company website for better user experience.;2024-10-01;2023-04-15;No
+jess;Inventory Check;Conduct a full inventory check and update the database accordingly.;2024-10-20;2023-05-01;Yes
+jon;Annual Report;Start preparing the annual report with all departments contributing.;2024-11-10;2023-05-20;Yes

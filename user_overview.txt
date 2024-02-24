@@ -1,0 +1,26 @@
+Total users: 4
+Total tasks: 12
+
+User: admin
+Tasks assigned: 5
+Completed tasks: 20.00%
+Incomplete tasks: 80.00%
+Overdue tasks: 0.00%
+
+User: mahmood
+Tasks assigned: 2
+Completed tasks: 0.00%
+Incomplete tasks: 100.00%
+Overdue tasks: 0.00%
+
+User: jon
+Tasks assigned: 2
+Completed tasks: 100.00%
+Incomplete tasks: 0.00%
+Overdue tasks: 0.00%
+
+User: jess
+Tasks assigned: 3
+Completed tasks: 66.67%
+Incomplete tasks: 33.33%
+Overdue tasks: 33.33%
