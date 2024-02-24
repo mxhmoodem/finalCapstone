@@ -6,10 +6,10 @@
 **Table of Contents**:
 1. Installation
 2. Usage:
-Registering a User
-Adding a Task
-Viewing Tasks
-Generating Reports
+Registering a User;
+Adding a Task;
+Viewing Tasks;
+Generating Reports;
 Displaying Statistics
 3. Screenshots
 
