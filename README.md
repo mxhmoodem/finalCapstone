@@ -1,4 +1,5 @@
 **Project Name:** Task Manager
+
 **Description:** The Task Manager is a Python-based application designed to help teams and individuals manage their tasks efficiently. It allows users to add, view, edit, and mark tasks as completed. The application also supports user registration and login, making it suitable for multiple users with personalized task lists. Its importance lies in facilitating better task management, improving productivity, and ensuring tasks are completed within deadlines.
 
 
@@ -44,7 +45,6 @@ Choose ds to display task and user statistics.
 ![image](https://github.com/mxhmoodem/finalCapstone/assets/142519933/c3254d72-4817-4d59-bf77-34ca585a26fd)
 ![image](https://github.com/mxhmoodem/finalCapstone/assets/142519933/5b7fa9fc-5f11-48e8-859b-14e09803ab2d)
 ![image](https://github.com/mxhmoodem/finalCapstone/assets/142519933/5b470a63-b91a-478f-aec4-a8989bf1d9e7)
-![image](https://github.com/mxhmoodem/finalCapstone/assets/142519933/17ce9059-665f-440b-a75d-0660e2f34567)
 ![image](https://github.com/mxhmoodem/finalCapstone/assets/142519933/1da32769-081d-4a7b-bd17-f045b741c53b)
 
 
